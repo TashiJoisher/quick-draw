@@ -1,0 +1,29 @@
+body{
+    background: linear-gradient(crimson,rgba(10, 233, 233, 0.943) );
+}
+
+h1{
+    color: black;
+    text-align: center;
+    
+}
+p{
+    color: black;
+    font-size: 17px;
+}
+
+#show_sketch{
+    float: right;
+}
+
+#score{
+    color: black;
+    font-size: 20px;
+    float: left;
+}
+
+#timer{
+    color: black;
+    font-size: 20px;
+    float: right;
+}
